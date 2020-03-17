@@ -44,7 +44,7 @@
     "hatchingPotion": "שיקוי בקיעה",
     "noHatchingPotions": "אין לך אף שיקוי בקיעה.",
     "inventoryText": "לחצו על ביצה בכדי לראות שיקויים שמישים מסומנים בירוק ואז לחצו על אחד מאותם שיקויים כדי להבקיע את ביצת החיה שלכם. אם אף שיקוי לא מסומן, לחצו על הביצה בשנית כדי לבטל את הסימון, ותחת זאת לחצו על שיקוי כדי לראות ביצים שניתן להבקיע בעזרתו. ניתן גם למכור מוצרים לא נחוצים לאלכסנדר הסוחר.",
-    "haveHatchablePet": "You have a <%= potion %> hatching potion and <%= egg %> egg to hatch this pet! <b>Click</b> the paw print to hatch.",
+    "haveHatchablePet": "You have a <%= potion %> hatching potion and <%= egg %> egg to hatch this pet! <b>Click</b> the button to hatch.",
     "quickInventory": "Quick Inventory",
     "foodText": "אוכל",
     "food": "אוכל ואוכפים",
