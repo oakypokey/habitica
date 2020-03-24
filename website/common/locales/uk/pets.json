@@ -44,7 +44,7 @@
     "hatchingPotion": "зілля вилуплення",
     "noHatchingPotions": "Ви не маєте жодного зілля дозрівання.",
     "inventoryText": "Клацніть на яйці, аби побачити доступні зілля, підсвічені зеленим, та оберіть одне з них, щоб яйце дозріло для вилуплення. Якщо не підсвічено жодного зілля, ще раз клацніть на яйці, щоб скасувати вибір. Натомість клацніть на зіллі, аби виявити яйця, з якими його можна використати. Непотрібні предмети можна також продати купцеві Александру.",
-    "haveHatchablePet": "You have a <%= potion %> hatching potion and <%= egg %> egg to hatch this pet! <b>Click</b> the paw print to hatch.",
+    "haveHatchablePet": "You have a <%= potion %> hatching potion and <%= egg %> egg to hatch this pet! <b>Click</b> the button to hatch.",
     "quickInventory": "Quick Inventory",
     "foodText": "їжа",
     "food": "Їжа та сідла",

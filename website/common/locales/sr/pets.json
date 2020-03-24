@@ -44,7 +44,7 @@
     "hatchingPotion": "napitak za izleganje",
     "noHatchingPotions": "Nema napitaka za izleganje.",
     "inventoryText": "Kliknite na jaje da vidite koje napitke možete da upotrebite na njemu. Zatim kliknite na jedan od obeleženih napitaka i Vaša zver će se izleći. Ako nijedan napitak ne bude obeležen, kliknite ponovo na jaje da poništite odabir, i kliknite na napitak da vidite na kojim jajima možete da ga upotrebite. Jaja i napitke koji Vam nisu potebni možete prodati Trgovcu Aleksanderu.",
-    "haveHatchablePet": "You have a <%= potion %> hatching potion and <%= egg %> egg to hatch this pet! <b>Click</b> the paw print to hatch.",
+    "haveHatchablePet": "You have a <%= potion %> hatching potion and <%= egg %> egg to hatch this pet! <b>Click</b> the button to hatch.",
     "quickInventory": "Quick Inventory",
     "foodText": "hrana",
     "food": "Hrana i sedla",
